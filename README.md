@@ -148,4 +148,14 @@ Uw tablet zal nu LineageOS voor het eerst opstarten 🎉
 
 **Optioneel**: Installeer F-Droid en Aurora Store om toegang te krijgen tot apps zonder Google-account.
 
+---
+
+⚠️ Disclaimer
+
+Deze handleiding is met grote zorg en uit eigen ervaring samengesteld om gebruikers te helpen hun Samsung Galaxy Tab A7 LTE (SM-T505) te voorzien van LineageOS. Gebruik van deze instructies is volledig op eigen risico.
+
+Ik ben niet aansprakelijk voor mogelijke schade, dataverlies, soft- of hard-bricking van toestellen als gevolg van het volgen van deze stappen.
+
+Zorg altijd voor een volledige back-up, lees u goed in en handel met kennis van zaken.
+
 Einde van de handleiding. Veel plezier met uw vrije toestel!
