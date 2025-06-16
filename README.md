@@ -159,3 +159,7 @@ Ik ben niet aansprakelijk voor mogelijke schade, dataverlies, soft- of hard-bric
 Zorg altijd voor een volledige back-up, lees u goed in en handel met kennis van zaken.
 
 Einde van de handleiding. Veel plezier met uw vrije toestel!
+
+---
+
+Licensed under the CC BY-NC-SA 4.0 license.
